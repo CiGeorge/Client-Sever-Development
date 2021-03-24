@@ -1,9 +1,9 @@
 # Client-Sever-Development
-1.One way to be able to keep programs maintaable is to keep the program organized. When looking at my CRUD file there is a read, and update and a delete section. 
-The broken up sections allowed it to be mainited and update based on the needs of the program. For example I changed the read from read one to read all. This was 
-important to my program. The next way that I made it readable was adding comments to the code. For example what the widgets were, what they did. This even 
-described the graphs. This is important to maintaining the code in the future, and make the application more solid in the futrure. In the future the CRUD module can
-be used to add more methods. This will help to better sort, and organize, and update the data.
+1.One way to be able to keep programs maintanable is to keep the program organized. When looking at my CRUD file, there is a read, update, and a delete section. 
+The broken-up sections allowed it to be maintained and updated based on the needs of the program. For example, I changed the read from read one to read all. This was 
+important to my program. The next way that I made it readable was by adding comments to the code. For example, what the widgets were, and what they did. This even 
+described the graphs. This is important to maintaining the code in the future, and make the application more solid. In the future, the CRUD module can
+be used to add more methods. This will help to better sort, organize, and update the data.
 2. This assignment differed a little different than my other courses as I was creating the database all the way to the application. One of the things that I did to 
 be able to help meet the requirements was seeing what the Galsgo Slavaire was wanting to see in the their application. As well as how they wanted to be able to sort the data.
 This was almost like a user story. That I was able to take and make it to where they needed it. For example searching by different breeds as different breeds are
